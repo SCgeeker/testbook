@@ -1,4 +1,4 @@
-# How to Use this Book {#sec-instructions}
+# 如何使用這本書 {#sec-instructions}
 
 ```{r, include = FALSE}
 source("R/booktem_setup.R")
