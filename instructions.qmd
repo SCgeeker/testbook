@@ -347,7 +347,7 @@ p-value: |
   The probability of the observed data, or more extreme data, if the null hypothesis is true. The lower the p-value, the higher the test statistic, and less likely it is to observe the data if the null hypothesis is true.
 ```
 
-Look up a term from the glossary file with `glossary("alpha")`: `r glossary("alpha")`
+Look up a term from the glossary file with `glossary("alpha")`: `r glossary("alpha")` and `r glossary("p值")`
 
 Display a different value for the term with `glossary("alpha", "$\\alpha$")`: `r glossary("alpha", "$\\alpha$")`
 
